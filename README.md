@@ -1,4 +1,6 @@
-﻿# Pug.Settings
+_**NOTE:** This repository is no longer maintained. See [Pug.Tensible](https://github.com/NDWX/Pug.Tensible) repository for evolved concepts of settings management._
+ 
+ # Pug.Settings
 
 Simplify settings management and consumption in your application by declaring rules and intentions around settings within your application.
 
